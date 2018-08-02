@@ -1,0 +1,69 @@
+1 - Incremento
+
+Sistema web
+primeira vez que rodar sistema, tela de cadastro do administrador
+login 
+programador - grupo pesquisa
+pagina publica - area restrita(lider do grupo de pesquisa)
+pagina individual por curso
+adm cadastra os usuarios (lideres de pesquisa)
+validaçao de senhas (maiuscula, minuscula, forte, fraca)
+recuperação por email (senha)
+cadastro de permissão (o que cada usuario pode fazer no sistema)
+
+17 AGOSTO
+ 
+DOCUMENTAÇÃO
+
+Prefácio, Glossário, Sumario, Introdução, Arquitetura do sistema (MVC)+ dao, Requisito de usuario (funcionais e nao funcionais), cronograma de execução e distribuição das tarefas,
+planejamentos de testes e manutenção, apendices e anexos.
+
+
+diagrama de arquitetura e diagrama de implantalçao 
+ 
+----------------------------------------------------------------------------------------------------------------------------
+
+2 - Incremento
+
+Grupo de pesquisa - 
+
+Cadastro basico do grupo
+Criação da pagina que todos podem ver
+pagina principal dos grupos de pesquisa (informação de todos os grupos/resumos que falam sobre os grupos)
+(só lider do grupo pode alterar o grupo)
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+3 - Incremento  
+
+manutenção da linha de pesquisa de acordo com a tabela capes
+cada grupo pode ter mais de 1 linha de pesquisa
+manutenção dos tecnicos ( tecnico pode estar dentro do gp)
+manutenção dos docentes que fazem parte do grupo de pesquisa (tbm faz parte de mais de uma linha de pesquisa)
+linha de pesquisa é vinculada ao grupo
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+4 - Incremento  ( 9 de novembro)
+
+manutenção do dicente
+manutenção de projeto
+manutençao da pag das publicações 
+	um projeto pode gerar diversas publicações 
+manutenção de equipamentos utilizados no grupo de pesquisa
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+5 - Incremento ( 30 de novembro)
+
+
+relatorios (informações sobre as linhas de pesquisas, dos grupos, quem fez parte (docentes e alunos), ano do projeto)
+reuniões (datas das reuniões, ata da reuniao, participantes)
+
+
+
+
+
